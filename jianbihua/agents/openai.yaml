@@ -1,0 +1,6 @@
+interface:
+  display_name: "简笔画"
+  short_description: "固定 Raylin IP 的白底简笔画、教学插图与 Q 版贴纸生图"
+  default_prompt: "Use $jianbihua to generate a Raylin-style hand-drawn IP illustration."
+policy:
+  allow_implicit_invocation: true

@@ -8,6 +8,8 @@
 |---|---|---|
 | [download-video](./download-video) | 用 yt-dlp 下载视频（小红书 / 抖音 / YouTube / B站 / 快手 / Twitter 等） | `/下载视频`、`/download-video`、贴链接 |
 | [video-to-text](./video-to-text) | 本地视频转中文文字报告：`mlx_whisper` 转录 + 语义分段 + 双人角色推断 + 核心观点总结 | `/视频转文字`、`/video-to-text` |
+| [koubo-pipeline](./koubo-pipeline) | 真人口播视频动效流水线：转码 → 转录校对 → 分镜卡 → 静帧审批 → 4K 渲染归档 | `/口播剪辑` |
+| [jianbihua](./jianbihua) | 固定 IP 形象的简笔画、教学插图、Q 版贴纸生图（自带角色参考图与风格 DNA） | `/简笔画` |
 
 ## 安装
 
